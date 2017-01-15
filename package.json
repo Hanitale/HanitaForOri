@@ -1,0 +1,23 @@
+{
+  "name": "hadash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanitale/HanitaForOri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanitale/HanitaForOri/issues"
+  },
+  "homepage": "https://github.com/Hanitale/HanitaForOri#readme",
+  "dependencies": {
+    "opener": "^1.4.2",
+    "shelljs": "^0.7.6"
+  }
+}
