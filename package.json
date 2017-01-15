@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
+  "scripts": {"start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +19,6 @@
   "dependencies": {
     "opener": "^1.4.2",
     "shelljs": "^0.7.6"
+      "http-server": "0.9.0"
   }
 }
