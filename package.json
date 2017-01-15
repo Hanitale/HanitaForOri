@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Hanitale/HanitaForOri#readme",
   "dependencies": {
     "opener": "^1.4.2",
-    "shelljs": "^0.7.6"
+    "shelljs": "^0.7.6",
       "http-server": "0.9.0"
   }
 }
